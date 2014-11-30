@@ -1,0 +1,13 @@
+[
+    {
+        "name": "tech book club",
+        "from": "9:00",
+        "to": "13:00",
+        "every": "friday",
+        "start": "2014-11-28",
+        "end": "2015-11-28",
+        "data": {
+            "do": "something"
+        }
+    }
+]
